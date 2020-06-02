@@ -1,0 +1,9 @@
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.csprojAssemblyReference.cache
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.csproj.CoreCompileInputs.cache
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.AssemblyInfoInputs.cache
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.AssemblyInfo.cs
+D:\Code Development\Cache\CacheService\bin\Debug\netstandard2.0\CacheService.deps.json
+D:\Code Development\Cache\CacheService\bin\Debug\netstandard2.0\CacheService.dll
+D:\Code Development\Cache\CacheService\bin\Debug\netstandard2.0\CacheService.pdb
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.dll
+D:\Code Development\Cache\CacheService\obj\Debug\netstandard2.0\CacheService.pdb
